@@ -24,9 +24,8 @@
 - - reTerminal の場合，アンテナが上向きになります
 - E220は9600bps 8N1 がデフォルトとなります
 - ラズベリーパイのUART はttyS0 / ttyAMA0 など実機に合わせてください
-![受信機(ラズパイ)](/JPG/受信機(ラズパイ).jpg)
 <img src="/JPG/受信機(ラズパイ).jpg" width="320">
-
+<img src="/JPG/８台.jpg" width="320">
 
 ## 故障かなと思ったら
 ### 受信できない
@@ -54,7 +53,7 @@
 <br><br>
 
 # Dipp-SW Exsample
-![DIPP-SW](/JPG/DIPP.jpg)
+<img src="/JPG/DIPP.jpg" width="640">
 
 - Sample プログラムのDipp-SW 設定例です
 - POW : LoRa 通信速度です，High/Middle/Low/Extra Low Speed.の略で速いほど応答が良いが距離は短くなります
