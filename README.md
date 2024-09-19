@@ -52,7 +52,7 @@
 <br><br>
 
 # Dipp-SW Exsample
-![DIPP-SW](\DOC\DIPP.jpg)
+![DIPP-SW](/DOC/DIPP.jpg)
 
 - Sample プログラムのDipp-SW 設定例です
 - POW : LoRa 通信速度です，High/Middle/Low/Extra Low Speed.の略で速いほど応答が良いが距離は短くなります
