@@ -24,8 +24,7 @@
 - - reTerminal の場合，アンテナが上向きになります
 - E220は9600bps 8N1 がデフォルトとなります
 - ラズベリーパイのUART はttyS0 / ttyAMA0 など実機に合わせてください
-
-!<img src="https://github.com/Mii-system/LoRaE220/assets/69335570/a51b8dbf-641a-4a19-b0ad-3cff682e09f0" width="320p">
+<img src="[画像のURL](https://github.com/user-attachments/assets/e5372739-5ff7-462f-bec2-e04286bad044)" width=320>
 
 ## 故障かなと思ったら
 ### 受信できない
@@ -53,7 +52,9 @@
 <br><br>
 
 # Dipp-SW Exsample
-!<img src="https://github.com/Mii-system/LoRaE220/assets/69335570/3efbd05f-0b5c-4cc4-96c8-cd955a760529" width="320p">
+<img src="https://github.com/Mii-system/LoRaE220/assets/69335570/3efbd05f-0b5c-4cc4-96c8-cd955a760529" width="320p">
+![受信機(ラズパイ)](https://github.com/user-attachments/assets/d0fd2da9-1ed5-44c7-8bd1-ff119088d7a2)
+
 
 - Sample プログラムのDipp-SW 設定例です
 - POW : LoRa 通信速度です，High/Middle/Low/Extra Low Speed.の略で速いほど応答が良いが距離は短くなります
