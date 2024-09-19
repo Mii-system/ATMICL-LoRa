@@ -24,7 +24,7 @@
 - - reTerminal の場合，アンテナが上向きになります
 - E220は9600bps 8N1 がデフォルトとなります
 - ラズベリーパイのUART はttyS0 / ttyAMA0 など実機に合わせてください
-![受信機(ラズパイ)](/DOC/受信機(ラズパイ).jpg)
+![受信機(ラズパイ)](/JPG/受信機(ラズパイ).jpg)
 
 ## 故障かなと思ったら
 ### 受信できない
@@ -42,17 +42,17 @@
 - LoRa E220 の受信サンプル
 - 起動時にDipp-SW の設定によりE220 を初期化
 - 受信データをコンソールに表示します
-## RANDX-DEMO1.py
-- RANDX-C-LoRa から受信するサンプルです
+## E220_Sample2.py
+- ATMICL-LoRa から受信するサンプルです
 - 起動時にDipp-SW の設定によりE220 を初期化
 - 受信した電流データをコンソールに表示します
-## RANDX-DEMO2.py
-- RANDX-DEMO1.py から受信した電流情報をInfluxDB に保存します
+## E220_Sample3.py
+- E220_Sample2.py から受信した電流情報をInfluxDB に保存します
 - InfluxDB の設定などはプログラムを参考に取り進めください
 <br><br>
 
 # Dipp-SW Exsample
-![DIPP-SW](/DOC/DIPP.jpg)
+![DIPP-SW](/JPG/DIPP.jpg)
 
 - Sample プログラムのDipp-SW 設定例です
 - POW : LoRa 通信速度です，High/Middle/Low/Extra Low Speed.の略で速いほど応答が良いが距離は短くなります
