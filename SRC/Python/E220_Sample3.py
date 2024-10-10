@@ -10,7 +10,7 @@ from datetime import datetime
 from influxdb import InfluxDBClient
 
 # InfluxDB
-client = InfluxDBClient("localhost", 8086, "", "", "randx")
+client = InfluxDBClient("localhost", 8086, "", "", "atmicl")
 
 # GPIO
 #Pin_Dipp = [21, 26, 20, 19, 16, 13, 6,12]   # Dipp-SW V00
