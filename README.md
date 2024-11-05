@@ -52,7 +52,7 @@
 - InfluxDB の設定などはプログラムを参考に取り進めください
 <br><br>
 
-# Dipp-SW Exsample
+# Dipp-SW Example
 <img src="/JPG/DIPP.jpg" width="640">
 
 - Sample プログラムのDipp-SW 設定例です
