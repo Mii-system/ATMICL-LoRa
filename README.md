@@ -1,5 +1,5 @@
-# LoRa E220
- LoRa E220 Sample Soft
+# ATMICL-LoRa
+ ATMICL-LoRa Sample Soft
 
 # Purpose   概要
 - +DOC:Manuals
